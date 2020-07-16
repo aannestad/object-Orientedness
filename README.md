@@ -1,2 +1,2 @@
 # objectOrientedness
-Games and stuff, originating from courses INF100 &amp; INF101 at UiB
+Games and stuff, OOP java written via courses INF100 &amp; INF101 at UiB
