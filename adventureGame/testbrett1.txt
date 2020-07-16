@@ -1,0 +1,6 @@
+4 0
+koble vest-oest 1 0
+koble nord-soer 1 2
+koble nord-soer 2 3
+ting 2 gull 3
+monster 3 1 5
